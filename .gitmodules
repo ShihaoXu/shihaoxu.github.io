@@ -1,4 +1,4 @@
 [submodule "FrontendMentor"]
 	path = FrontendMentor
-	url = https://github.com/ShihaoXu/FrontendMentor
+	url = git@github.com:ShihaoXu/FrontendMentor.git
 	branch = main
